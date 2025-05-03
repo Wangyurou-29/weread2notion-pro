@@ -11,8 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 WEREAD_URL = "https://weread.qq.com/"
-WEREAD_NOTEBOOKS_URL = "https://i.weread.qq.com/user/notebooks"    
-##WEREAD_BOOKMARKLIST_URL = "https://i.weread.qq.com/book/bookmarklist"      
+WEREAD_NOTEBOOKS_URL = "https://i.weread.qq.com/user/notebooks"       
 WEREAD_BOOKMARKLIST_URL = "https://weread.qq.com/web/shelf/sync"        
 WEREAD_CHAPTER_INFO = "https://i.weread.qq.com/book/chapterInfos"        
 WEREAD_READ_INFO_URL = "https://i.weread.qq.com/book/readinfo"
